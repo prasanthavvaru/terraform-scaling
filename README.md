@@ -1,4 +1,4 @@
-# terraform-scaling
+# Terraform-Scaling
 Scaling launch configurations on aws
 
 
